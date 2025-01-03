@@ -13,7 +13,6 @@ const App = () => {
     <main className="bg-black">
       <Navbar />
       <Hero />
-      <Highlights />
       <Model />
       <Features />
       <HowItWorks />
